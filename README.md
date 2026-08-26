@@ -42,23 +42,53 @@ I design and build **data-driven web platforms** for government and healthcare i
 
 ## 🚀 Featured Projects
 
-### 🏥 YAKAP Patient Management System
+<details>
+<summary><b>🏥 YAKAP Patient Management System</b> — click to expand</summary>
+<br>
+
 Web-based patient management platform for a Municipal Health Office — digitizes patient records, PhilHealth verification, vaccine inventory, and staff communications.
+
 `React (Vite)` · `Firebase/Firestore` · `FastAPI` · `Tailwind CSS`
+
 - Role-based access control (SuperAdmin, Staff/Encoder, Viewer)
 - Vial utilization & dose tracking module
 - SaaS-style changelog & announcement system
 
-### 📋 SANITARY — Permit Generator & Management System
+</details>
+
+<details>
+<summary><b>📋 SANITARY — Permit Generator & Management System</b> — click to expand</summary>
+<br>
+
 Full sanitary permit lifecycle system for a Municipal Health Office — applications, certificate generation, QR verification, and reporting.
+
 `React` · `Firestore` · `Tailwind CSS` · `lucide-react`
+
 - Dashboard, applicants, certificate creation & history
 - QR-code verification and PDF certificate generation
 - Role-based sidebar (User / Admin)
 
-### 💼 Personal Portfolio
+</details>
+
+<details>
+<summary><b>💼 Personal Portfolio</b> — click to expand</summary>
+<br>
+
 `React` · `Vite` · `Tailwind CSS`
+
 - Dark theme, custom typography, certifications showcase
+
+</details>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
 
 ---
 
