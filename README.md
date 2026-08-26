@@ -1,54 +1,55 @@
 <div align="center">
 
-# Rainiel Fajiculay
-### Data Encoder & Analytics · Full-Stack Developer for Civic & Health Tech
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006837&height=200&section=header&text=Rainiel%20Fajiculay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Encoder%20%26%20Analytics%20%7C%20Civic%20%2B%20Health%20Tech%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=006837&center=true&vCenter=true&width=650&lines=Turning+raw+municipal+data+into+decisions;Building+patient+management+systems;React+%2B+Firebase+%2B+FastAPI;Open+for+freelance+%26+full-time+work" alt="Typing SVG" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-006837?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=006837&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+patient+management+systems;React+%2B+Firebase+%2B+FastAPI;Civic+Tech+%7C+Health+Tech+%7C+Data+Analytics" alt="Typing SVG" />
+[![Email](https://img.shields.io/badge/Email-c8960a?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
----
+<br>
 
-## 👋 About
+## 🧭 About Me
 
-I design and build **data-driven web platforms** for government and healthcare institutions — from patient records digitization to permit management systems. Currently focused on **data encoding, analytics, and dashboarding** that turn messy municipal records into clean, actionable systems.
+```yaml
+name: Rainiel Fajiculay
+role: Data Encoder & Analytics | Full-Stack Developer
+focus: Civic Tech · Health Tech · AI-assisted workflows
+current: Lead Developer @ YAKAP Patient Management System (MHO Pinamalayan)
+education: IT Graduate
+status: Open to freelance & full-time work
+```
 
-- 🏥 Lead Developer — **YAKAP Patient Management System**, MHO Pinamalayan
-- 📊 Specializing in data pipelines, RBAC systems, and analytics dashboards
-- 🌱 IT graduate focused on healthcare systems, civic tech, and AI-assisted workflows
-- ⚡ Fast iterations, full-file rewrites, production-ready UI
-
----
+<br>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Frontend | Backend | Database | Tools |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 </div>
 
----
+<br>
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🏥 YAKAP Patient Management System</b> — click to expand</summary>
+<details open>
+<summary><b>🏥 YAKAP Patient Management System</b></summary>
 <br>
 
-Web-based patient management platform for a Municipal Health Office — digitizes patient records, PhilHealth verification, vaccine inventory, and staff communications.
+> Web-based patient management platform for a Municipal Health Office — digitizes patient records, PhilHealth verification, vaccine inventory, and staff communications.
 
-`React (Vite)` · `Firebase/Firestore` · `FastAPI` · `Tailwind CSS`
+`React (Vite)` `Firebase/Firestore` `FastAPI` `Tailwind CSS`
 
 - Role-based access control (SuperAdmin, Staff/Encoder, Viewer)
 - Vial utilization & dose tracking module
@@ -57,12 +58,12 @@ Web-based patient management platform for a Municipal Health Office — digitize
 </details>
 
 <details>
-<summary><b>📋 SANITARY — Permit Generator & Management System</b> — click to expand</summary>
+<summary><b>📋 SANITARY — Permit Generator & Management System</b></summary>
 <br>
 
-Full sanitary permit lifecycle system for a Municipal Health Office — applications, certificate generation, QR verification, and reporting.
+> Full sanitary permit lifecycle system for a Municipal Health Office — applications, certificate generation, QR verification, and reporting.
 
-`React` · `Firestore` · `Tailwind CSS` · `lucide-react`
+`React` `Firestore` `Tailwind CSS` `lucide-react`
 
 - Dashboard, applicants, certificate creation & history
 - QR-code verification and PDF certificate generation
@@ -71,39 +72,46 @@ Full sanitary permit lifecycle system for a Municipal Health Office — applicat
 </details>
 
 <details>
-<summary><b>💼 Personal Portfolio</b> — click to expand</summary>
+<summary><b>💼 Personal Portfolio</b></summary>
 <br>
 
-`React` · `Vite` · `Tailwind CSS`
+`React` `Vite` `Tailwind CSS`
 
 - Dark theme, custom typography, certifications showcase
 
 </details>
 
----
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=006837&icon_color=c8960a&text_color=333&border_color=006837&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=006837&text_color=333&border_color=006837&hide_border=false" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&ring=006837&fire=c8960a&currStreakLabel=006837&hide_border=false" height="165"/>
+
+</div>
+
+<br>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
----
-
-## 📈 GitHub Stats
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006837&height=100&section=footer" width="100%"/>
 
 **Open to freelance & full-time work in data encoding, analytics, and civic/health tech systems.**
 
