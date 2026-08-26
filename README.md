@@ -233,38 +233,6 @@ Full-stack web systems with React/Vite on the frontend and FastAPI/Firebase on t
 
 ---
 
-## 💬 Testimonials
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <blockquote>
-        "Reliable and fast turnaround on every module we needed for the health office system."
-        <br><br>
-        <sub><b>— Placeholder, Municipal Health Office</b></sub>
-      </blockquote>
-    </td>
-    <td width="33%" valign="top">
-      <blockquote>
-        "Handles both the backend data structure and the UI our staff actually use without friction."
-        <br><br>
-        <sub><b>— Placeholder, Project Stakeholder</b></sub>
-      </blockquote>
-    </td>
-    <td width="33%" valign="top">
-      <blockquote>
-        "Clear communication and clean handoffs between project phases."
-        <br><br>
-        <sub><b>— Placeholder, Collaborator</b></sub>
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>Replace these with real quotes from collaborators, teammates, or clients once available.</sub></p>
-
----
-
 ## 📊 Developer Metrics
 
 <div align="center">
