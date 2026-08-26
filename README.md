@@ -5,15 +5,19 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=220&section=header&text=Rainiel%20Fajiculay&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Data%20Analyst&descAlignY=55&descSize=16&descColor=cbd5e1" width="100%"/>
+
   <!-- Status / Release Pill Badge -->
   <a href="https://github.com/fxcyer">
     <img src="https://img.shields.io/badge/✨_SYSTEM_STATUS-ONLINE_%26_AVAILABLE-0f172a?style=for-the-badge&color=0f172a&labelColor=020617&logo=databricks&logoColor=38bdf8" alt="System Status Online">
   </a>
 
-  # Rainiel Fajiculay
-  
-  ### Full-Stack Developer & Data Analyst building real-world health tech, civic systems, and AI-assisted workflows.
-  
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1400&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+real-world+health+tech+%26+civic+systems;Patient+records+%C2%B7+permits+%C2%B7+data+pipelines;React+%2B+FastAPI+%2B+Firebase+%2B+MySQL" alt="Typing SVG" />
+
+  <br><br>
+
   <p align="center">
     <a href="mailto:marquezrainiel57@gmail.com">
       <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
@@ -117,6 +121,25 @@ Organized production-ready tools and frameworks deployed across frontend, backen
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📋 SANITARY — Permit Management System</h4>
+      <p>Sanitary permit lifecycle system for the same Municipal Health Office — applications, certificate generation, QR-code verification, and reporting.</p>
+      <p>
+        <code>React</code> <code>Firestore</code> <code>Tailwind CSS</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 Personal Portfolio</h4>
+      <p>Product-style personal site with a dark, high-contrast design system and a dedicated certifications showcase.</p>
+      <p>
+        <code>React</code> <code>Vite</code> <code>Tailwind CSS</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📊 Developer Metrics
@@ -127,10 +150,22 @@ Organized production-ready tools and frameworks deployed across frontend, backen
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fxcyer&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" width="48%" />
 
   <br><br>
-  
+
   <img src="https://streak-stats.demolab.com/?user=fxcyer&theme=apprentice&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
 
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxcyer&bg_color=0d1117&color=38bdf8&line=38bdf8&point=cbd5e1&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+
 </div>
+
+<details>
+<summary align="center"><b>🏆 View Trophy Case</b></summary>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fxcyer&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</div>
+</details>
 
 ---
 
@@ -143,9 +178,13 @@ Organized production-ready tools and frameworks deployed across frontend, backen
   <a href="mailto:marquezrainiel57@gmail.com">
     <img src="https://img.shields.io/badge/Start_a_Conversation-0f172a?style=for-the-badge&color=0f172a&labelColor=020617&logo=minutemailer&logoColor=38bdf8" alt="Email CTA">
   </a>
-  
+
   <p style="margin-top: 16px; color: #64748b; font-size: 13px;">
     Profile views: <img src="https://komarev.com/ghpvc/?username=fxcyer&icon=0&color=38bdf8" align="center" alt="Visitor Count" />
   </p>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=100&section=footer" width="100%"/>
 
 </div>
