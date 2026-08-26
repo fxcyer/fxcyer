@@ -233,6 +233,18 @@ Full-stack web systems with React/Vite on the frontend and FastAPI/Firebase on t
 
 ---
 
+## 🎮 Contributions, Tetris-Style
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fxcyer/fxcyer/main/github_tetris.gif" alt="Tetris-style contribution animation" width="80%"/>
+
+</div>
+
+<p align="center"><sub>Generated from real commit activity — see setup notes in the repo if the animation isn't showing yet.</sub></p>
+
+---
+
 ## 📊 Developer Metrics
 
 <div align="center">
