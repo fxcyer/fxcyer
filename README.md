@@ -32,13 +32,15 @@
 
 </div>
 
-01 — About
+---
 
-I'm an IT graduate and full-stack developer focused on building practical software for healthcare, civic, and administrative environments.
+## `01` — About
+
+I'm an **IT graduate and full-stack developer** focused on building practical software for healthcare, civic, and administrative environments.
 
 My approach is simple:
 
-Understand the real workflow → model the data → build the system → make it useful.
+> **Understand the real workflow → model the data → build the system → make it useful.**
 
 I enjoy turning paper-heavy or fragmented processes into structured digital systems with clean interfaces, role-based access, searchable records, dashboards, and reliable data flows.
 
@@ -46,133 +48,114 @@ I enjoy turning paper-heavy or fragmented processes into structured digital syst
 <tr>
 <td width="50%" valign="top">
 
-Current Focus
+### Current Focus
 
-🏥 Health & patient-management systems
-
-🏛️ Civic & administrative technology
-
-📊 Data organization & analytics
-
-🤖 AI-assisted development workflows
-
-⚡ Full-stack web applications
+- 🏥 Health & patient-management systems
+- 🏛️ Civic & administrative technology
+- 📊 Data organization & analytics
+- 🤖 AI-assisted development workflows
+- ⚡ Full-stack web applications
 
 </td>
 <td width="50%" valign="top">
 
-Snapshot
+### Snapshot
 
-🎓 IT Graduate
-
-💻 Full-Stack Developer
-
-📊 Data & Analytics
-
-🇵🇭 Philippines
-
-🚀 Lead Developer — YAKAP PMS
-
-🤝 Open to freelance & full-time work
+- 🎓 **IT Graduate**
+- 💻 **Full-Stack Developer**
+- 📊 **Data & Analytics**
+- 🇵🇭 **Philippines**
+- 🚀 **Lead Developer — YAKAP PMS**
+- 🤝 **Open to freelance & full-time work**
 
 </td>
 </tr>
 </table>
 
-02 — What I Build
+---
+
+## `02` — What I Build
 
 <div align="center">
 
-🏥 HEALTH TECH
-
-🏛️ CIVIC TECH
-
-📊 DATA SYSTEMS
-
-Patient records
-
-Administrative workflows
-
-Data organization
-
-Healthcare workflows
-
-Permit systems
-
-Reporting
-
-Inventory tracking
-
-Digital certificates
-
-Dashboards
-
-Staff tools
-
-Verification systems
-
-Analytics
+| 🏥 HEALTH TECH | 🏛️ CIVIC TECH | 📊 DATA SYSTEMS |
+| :---: | :---: | :---: |
+| Patient records | Administrative workflows | Data organization |
+| Healthcare workflows | Permit systems | Reporting |
+| Inventory tracking | Digital certificates | Dashboards |
+| Staff tools | Verification systems | Analytics |
 
 </div>
 
-03 — Featured Systems
+---
 
-🏥 YAKAP Patient Management System
+## `03` — Featured Systems
 
-Lead Developer · Municipal Health Office, Pinamalayan
+### 🏥 YAKAP Patient Management System
+
+**Lead Developer · Municipal Health Office, Pinamalayan**
 
 A web-based patient management platform built around real healthcare workflows.
 
-Core capabilities
+**Core capabilities**
 
-Patient Records PhilHealth Verification Vaccine/Vial Tracking RBAC Calendar Changelog Admin Tools
+`Patient Records` `PhilHealth Verification` `Vaccine/Vial Tracking` `RBAC` `Calendar` `Changelog` `Admin Tools`
 
-Engineering
+**Engineering**
 
-React Vite Firebase / Firestore FastAPI Tailwind CSS
+`React` `Vite` `Firebase / Firestore` `FastAPI` `Tailwind CSS`
 
-Goal: replace fragmented manual workflows with a structured, searchable, role-aware digital system.
+> **Goal:** replace fragmented manual workflows with a structured, searchable, role-aware digital system.
 
-📋 SANITARY — Permit Management System
+---
+
+### 📋 SANITARY — Permit Management System
 
 A permit lifecycle platform designed for municipal health-office workflows.
 
-Core capabilities
+**Core capabilities**
 
-Applicant Management Certificate Generation QR Verification Reports RBAC Status Tracking
+`Applicant Management` `Certificate Generation` `QR Verification` `Reports` `RBAC` `Status Tracking`
 
-Engineering
+**Engineering**
 
-React Firestore Tailwind CSS React Router
+`React` `Firestore` `Tailwind CSS` `React Router`
 
-Goal: move permit processing from manual tracking to a centralized digital workflow.
+> **Goal:** move permit processing from manual tracking to a centralized digital workflow.
 
-💻 Personal Portfolio
+---
+
+### 💻 Personal Portfolio
 
 A product-style portfolio built around a consistent design system and modern frontend architecture.
 
-React Vite Tailwind CSS
+`React` `Vite` `Tailwind CSS`
 
-04 — Technology
+---
 
-Frontend
+## `04` — Technology
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=js,react,vite,css,wordpress" alt="Frontend technologies"/>
 
-Backend & Data
+### Backend & Data
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,php,mysql,firebase" alt="Backend technologies"/>
 
-Analytics & AI
+### Analytics & AI
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Analytics and AI technologies"/>
 
-DevOps & Tools
+### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,powershell,figma" alt="Development tools"/>
 
-05 — Engineering Philosophy
+---
 
+## `05` — Engineering Philosophy
+
+```text
 01  Start with the real problem
 02  Understand the workflow
 03  Design the data model
@@ -180,12 +163,15 @@ DevOps & Tools
 05  Keep access and permissions explicit
 06  Optimize only where it matters
 07  Ship → observe → improve
+```
 
-I prefer useful software over unnecessary complexity.
+I prefer **useful software over unnecessary complexity**.
 
 A good system should not only look modern—it should make someone's work easier.
 
-06 — Developer Metrics
+---
+
+## `06` — Developer Metrics
 
 <div align="center">
 
@@ -203,8 +189,11 @@ A good system should not only look modern—it should make someone's work easier
 
 </div>
 
-07 — Currently
+---
 
+## `07` — Currently
+
+```yaml
 building:
   - YAKAP Patient Management System
   - Civic & health-tech workflows
@@ -219,14 +208,17 @@ open_to:
   - Freelance projects
   - Full-time opportunities
   - Collaborations
+```
 
-08 — Let's Build
+---
+
+## `08` — Let's Build
 
 <div align="center">
 
-Have a real problem that software could solve?
+### Have a real problem that software could solve?
 
-Let's turn the workflow into a system.
+**Let's turn the workflow into a system.**
 
 <br>
 
@@ -237,11 +229,11 @@ Let's turn the workflow into a system.
 <br><br>
 
 <a href="https://github.com/fxcyer">GitHub</a>
- · 
+&nbsp;·&nbsp;
 <a href="mailto:marquezrainiel57@gmail.com">Email</a>
- · 
+&nbsp;·&nbsp;
 <a href="https://facebook.com/NoSlvttyH0es.23">Facebook</a>
- · 
+&nbsp;·&nbsp;
 <a href="https://instagram.com/xd_weapon.23">Instagram</a>
 
 <br><br>
