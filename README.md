@@ -1,154 +1,192 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=006837&height=200&section=header&text=Rainiel%20Fajiculay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Encoder%20%26%20Analytics%20%7C%20Civic%20%2B%20Health%20Tech%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=006837&center=true&vCenter=true&width=650&lines=Turning+raw+municipal+data+into+decisions;Building+patient+management+systems;React+%2B+Firebase+%2B+FastAPI;Open+for+freelance+%26+full-time+work" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:10B981&height=260&section=header&text=Rainiel%20Fajiculay&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20Civic%20%26%20Health%20Tech%20Systems&descAlignY=54&descSize=17" width="100%"/>
 
 <br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/NoSlvttyH0es.23)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/xd_weapon.23)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marquezrainiel57@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1400&color=10B981&center=true&vCenter=true&width=600&lines=Building+software+that+runs+real+institutions;Patient+records+%C2%B7+permits+%C2%B7+public+data+pipelines;React+%2B+Firebase+%2B+FastAPI" alt="Typing SVG" />
+
+<br><br>
+
+<a href="mailto:marquezrainiel57@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-10B981?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-## 🧭 About Me
+## → About
 
-```yaml
-name: Rainiel Fajiculay
-role: Data Encoder & Analytics | Full-Stack Developer
-focus: Civic Tech · Health Tech · AI-assisted workflows
-current: Lead Developer @ YAKAP Patient Management System (MHO Pinamalayan)
-education: IT Graduate
-status: Open to freelance & full-time work
-```
+I build production systems for institutions that can't afford downtime — patient records, permit workflows, and the data pipelines behind them. Currently leading development of a hospital-grade patient management platform for a Municipal Health Office, where I own everything from database schema to the UI a nurse uses on a slow clinic PC.
+
+My focus: **clean data architecture, role-based systems, and interfaces that non-technical staff can actually use.**
 
 <br>
 
-## 💻 Tech Stack
+## → What I Build
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+### 🏥 Health & Civic Tech
+Government-grade systems for public institutions — patient records, permits, verification workflows. Built to survive real-world constraints: unreliable internet, non-technical users, strict compliance.
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data & Analytics
+Structured data encoding and reporting pipelines that turn raw municipal records into dashboards decision-makers actually use.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Access-Controlled Platforms
+Multi-role systems (SuperAdmin / Staff / Viewer) with permission boundaries that matter — because the wrong person seeing patient data isn't a bug, it's a liability.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI-Assisted Workflows
+Integrating AI tooling into everyday development — from code generation to intelligent data validation — to ship faster without cutting corners.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 🚀 Featured Projects
+## → Stack
 
-<details open>
-<summary><b>🏥 YAKAP Patient Management System</b> — click to collapse</summary>
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastify&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</td>
+</tr>
+</table>
+
 <br>
 
-> Web-based patient management platform for a Municipal Health Office — digitizes patient records, PhilHealth verification, vaccine inventory, and staff communications.
+## → Featured Work
 
-`React (Vite)` `Firebase/Firestore` `FastAPI` `Tailwind CSS`
+<table>
+<tr>
+<td width="100%">
 
-- Role-based access control (SuperAdmin, Staff/Encoder, Viewer)
-- Vial utilization & dose tracking module
-- SaaS-style changelog & announcement system
+### 🏥 YAKAP Patient Management System
+**Lead Developer** · Municipal Health Office, Pinamalayan
 
-</details>
+A patient management platform now in active use — digitizing patient records, PhilHealth verification, vaccine/vial inventory, and internal staff communications for a real municipal health office.
 
-<details>
-<summary><b>📋 SANITARY — Permit Generator & Management System</b> — click to expand</summary>
-<br>
+| Problem | Solution |
+|---|---|
+| Paper-based patient records, no audit trail | Full digitization with Firestore-backed records and structured RBAC |
+| No visibility into vaccine stock | Custom vial utilization & dose-tracking module built from scratch |
+| Manual, disorganized update announcements | SaaS-style changelog system with timeline UI, filters, and search |
 
-> Full sanitary permit lifecycle system for a Municipal Health Office — applications, certificate generation, QR verification, and reporting.
+`React (Vite)` `Firebase / Firestore` `FastAPI` `Tailwind CSS`
 
-`React` `Firestore` `Tailwind CSS` `lucide-react`
+</td>
+</tr>
+</table>
 
-- Dashboard, applicants, certificate creation & history
-- QR-code verification and PDF certificate generation
-- Role-based sidebar (User / Admin)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+**📋 SANITARY**
+Sanitary permit lifecycle system — applications, certificate generation, QR verification, and reporting for the same Municipal Health Office.
 
-<details>
-<summary><b>💼 Personal Portfolio</b> — click to expand</summary>
-<br>
+`React` `Firestore` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Personal Portfolio**
+Product-style personal site with a dark, high-contrast design system.
 
 `React` `Vite` `Tailwind CSS`
 
-- Dark theme, custom typography, certifications showcase
-
-</details>
+</td>
+</tr>
+</table>
 
 <br>
 
-## 📊 GitHub Analytics
+## → Background
+
+| | |
+|---|---|
+| 🎓 **Education** | IT Graduate |
+| 🏥 **Current Role** | Lead Developer, YAKAP PMS — Municipal Health Office of Pinamalayan |
+| 🎯 **Focus** | Civic tech, health tech, data analytics, AI-assisted development |
+| 🟢 **Status** | Open to freelance & full-time work |
+
+<br>
+
+## → Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=fxcyer&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fxcyer&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fxcyer&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=fxcyer&theme=apprentice&hide_border=false" height="165"/>
-
-</div>
-
-**🔥 Most used language:** auto-ranked live in the "Most Used Languages" card above — updates as you push code, no manual editing needed.
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fxcyer&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
-<br>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fxcyer&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fxcyer&show_icons=true&theme=transparent&title_color=10B981&icon_color=10B981&text_color=8B949E&border_color=30363D&hide_border=false&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxcyer&layout=compact&theme=transparent&title_color=10B981&text_color=8B949E&border_color=30363D&hide_border=false" height="165"/>
 
 </div>
 
 <br>
 
-## 🕹️ Profile Summary
+---
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fxcyer&theme=algolia" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fxcyer&theme=algolia" width="49%"/>
+### Have a problem worth solving?
+
+I'm open to freelance projects and full-time roles building data systems, internal tools, and civic/health tech platforms.
+
+<a href="mailto:marquezrainiel57@gmail.com"><img src="https://img.shields.io/badge/Email%20me-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=006837&height=100&section=footer" width="100%"/>
-
-**Open to freelance & full-time work in data encoding, analytics, and civic/health tech systems.**
-
-[![](https://komarev.com/ghpvc/?username=fxcyer&icon=0&color=0068370&style=for-the-badge)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
