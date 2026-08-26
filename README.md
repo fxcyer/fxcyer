@@ -100,14 +100,32 @@ status: Open to freelance & full-time work
 
 <br>
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fxcyer/fxcyer/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/fxcyer/fxcyer/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=fxcyer&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+<br>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fxcyer&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br>
+
+## 🕹️ Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fxcyer&theme=algolia" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fxcyer&theme=algolia" width="49%"/>
 
 </div>
 
